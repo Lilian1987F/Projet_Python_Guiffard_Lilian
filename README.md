@@ -6,7 +6,7 @@ Groupe : B1
 ## Organisation du dépôt
 
 - `tp/` : mes solutions aux TP du module (`tp1.py` à `tp6.py`, un fichier par TP).
-- `projet/` : mon projet personnel, `projet_cadastre.py`.
+- `projet/` : mon projet personnel, `projet_cadastre_lilian_GUIFFARD.py`.
 
 ## Le projet : un petit outil de cadastre
 

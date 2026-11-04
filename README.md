@@ -1,7 +1,7 @@
 # Outils fondamentaux : TP et projet
 
-Nom : [GUIFFARD Lilian]
-Groupe : [B1]
+Nom : GUIFFARD Lilian
+Groupe : B1
 
 ## Organisation du dépôt
 

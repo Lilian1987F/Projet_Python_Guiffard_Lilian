@@ -60,7 +60,3 @@ Le programme crée quatre parcelles A, B, C, D, dont C empiète volontairement s
 ## Usage de l'intelligence artificielle
 
 J'ai utilisé un assistant d'IA pour ce projet. Il m'a servi à comprendre comment orienter le projet et structurer le code pour qu'il fonctionne.
-
-Ce que j'ai fait moi-même : [à compléter avec ce que tu as réellement relu, lancé, modifié ou vérifié].
-
-Les solutions des TP ont aussi été produites avec l'aide de l'assistant, à partir des corrigés du cours, puis reprises dans mon propre format : [à compléter : ce que tu as relu, testé ou modifié].
